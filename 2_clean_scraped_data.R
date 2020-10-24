@@ -9,22 +9,10 @@
 # So, basically, out of the ones that say they are international, how many are actually offering the exam itself.
 
 #Bring in data from csv
+final_scraped_dataset <- read_csv("final_scraped_dataset_w.csv")
 
-
-
-final_scraped_dataset_w <- get_all_schools_v2_final %>%
-  left_join(all_links, by = c("name" = "link_name")) %>%
-  separate(name, c("school_name", "area"), sep = ",")
-
-#Save R file
-#save(final_scraped_dataset_w,file="~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.Rda")
-
-#write_csv(final_scraped_dataset_w, path = "~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.csv")
-
-
-
-# Now extract useful info
-final_scraped_dataset_w_clean <- final_scraped_dataset_w %>%
+# Now clean location data
+final_scraped_dataset_w_clean <- final_scraped_dataset %>%
   mutate(loc = str_trim(loc, c("both")), #trim whitespace
          loc = ifelse(loc == "Ajeromi LGA", "Ajeromi-Ifelodun",
                       ifelse(loc == "Amuwo Odofin", "Amuwo-Odofin",
@@ -35,7 +23,6 @@ final_scraped_dataset_w_clean <- final_scraped_dataset_w %>%
   mutate(type = str_trim(type, c("both")),
          type = ifelse(str_detect(`type`, "Privately") == "TRUE", "Private", type),
          type = ifelse(str_detect(`type`, "State") == "TRUE", "State", type))
-
 
 
 #example of coutns
@@ -57,7 +44,7 @@ final_scraped_dataset_w_counts <- final_scraped_dataset_w_clean %>%
   unite(type_var, type, var) %>%
   spread(type_var, loc_counts)
 
-write_csv(final_scraped_dataset_w_counts, path = "~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.csv")
+write_csv(final_scraped_dataset_w_counts, path = "~/final_scraped_dataset_w_counts.csv")
 
 #Map-Making ---- 
 #get centroids

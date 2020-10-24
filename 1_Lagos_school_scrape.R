@@ -2,7 +2,7 @@
 # Nigeria International School Profile Analysis: This code scrapes pages from
 # The official Lagos State Schools internet portal
 ### 
- 
+
 library("tidyverse")
 library("rvest")
 library("robotstxt")
@@ -106,7 +106,6 @@ get_all_schools_v2 <- function(all_links){
   data
 }
 
-
 #Query codes
 get_all_schools_v2_final <- get_all_schools_v2 (all_links)
 
@@ -117,8 +116,6 @@ final_scraped_dataset_w <- get_all_schools_v2_final %>%
   separate(name, c("school_name", "area"), sep = ",")
 
 #Save R file
-#save(final_scraped_dataset_w,file="~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.Rda")
+save(final_scraped_dataset_w,file="~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.Rda")
 
-#write_csv(final_scraped_dataset_w, path = "~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.csv")
-
-
+write_csv(final_scraped_dataset_w, path = "~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.csv")
