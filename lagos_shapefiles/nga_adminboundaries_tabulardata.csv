@@ -1,0 +1,775 @@
+﻿OBJECTID *,Shape *,admin2Name_en,admin2Pcode,admin2RefName,admin2AltName1_en,admin2AltName2_en,SenDist_en,SenDistPcode,admin1Name_en,admin1Pcode,admin0Name_en,admin0Pcode,date,validOn,validTo,Shape_Length,Shape_Area
+1,Polygon,Aba North,NG001001,Aba North,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.237074,0.001524
+2,Polygon,Aba South,NG001002,Aba South,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.262477,0.003531
+3,Polygon,Abadam,NG008001,Abadam,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,3.075316,0.326868
+4,Polygon,Abaji,NG015001,Abaji,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,11/29/16,4/17/19,<Null>,2.537984,0.068379
+5,Polygon,Abak,NG003001,Abak,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.68715,0.014529
+6,Polygon,Abakaliki,NG011001,Abakaliki,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.062415,0.037865
+7,Polygon,Abeokuta North,NG028001,Abeokuta North,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.187195,0.062916
+8,Polygon,Abeokuta South,NG028002,Abeokuta South,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.315971,0.004609
+9,Polygon,Abi,NG009001,Abi,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.877586,0.021879
+10,Polygon,Aboh-Mbaise,NG017001,Aboh-Mbaise,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.712043,0.014378
+11,Polygon,Abua/Odual,NG033001,Abua/Odual,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.257065,0.058378
+12,Polygon,Abuja Municipal,NG015002,Abuja Municipal,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,11/29/16,4/17/19,<Null>,1.822641,0.141634
+13,Polygon,Adavi,NG023001,Adavi,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.550954,0.058465
+14,Polygon,Ado,NG007001,Ado,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.819207,0.097102
+15,Polygon,Ado-Odo/Ota,NG028003,Ado-Odo/Ota,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.210984,0.06984
+16,Polygon,Ado Ekiti,NG013001,Ado Ekiti,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.82142,0.02959
+17,Polygon,Afijio,NG031001,Afijio,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.002762,0.027144
+18,Polygon,Afikpo North,NG011002,Afikpo North,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,0.698986,0.019527
+19,Polygon,Afikpo South,NG011003,Afikpo South,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,0.874414,0.030787
+20,Polygon,Agaie,NG027001,Agaie,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,1.878563,0.157848
+21,Polygon,Agatu,NG007002,Agatu,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.463458,0.085903
+22,Polygon,Agege,NG025001,Agege,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.136929,0.000939
+23,Polygon,Aguata,NG004001,Aguata,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.675252,0.01417
+24,Polygon,Agwara,NG027002,Agwara,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,1.545463,0.121634
+25,Polygon,Ahiazu-Mbaise,NG017002,Ahiazu-Mbaise,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.4446,0.009296
+26,Polygon,Ahoada East,NG033002,Ahoada East,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.93119,0.025945
+27,Polygon,Ahoada West,NG033003,Ahoada West,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.96111,0.035916
+28,Polygon,Aiyedade,NG030001,Aiyedade,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,1.79514,0.062436
+29,Polygon,Aiyedire,NG030002,Aiyedire,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.71015,0.024818
+30,Polygon,Aiyekire (Gbonyin),NG013002,Aiyekire (Gbonyin),<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.943498,0.035605
+31,Polygon,Ajaokuta,NG023002,Ajaokuta,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.554482,0.113133
+32,Polygon,Ajeromi-Ifelodun,NG025002,Ajeromi-Ifelodun,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.136005,0.001043
+33,Polygon,Ajingi,NG020001,Ajingi,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.272469,0.059292
+34,Polygon,Akamkpa,NG009002,Akamkpa,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,2.717531,0.410299
+35,Polygon,Akinyele,NG031002,Akinyele,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.050549,0.048891
+36,Polygon,Akko,NG016001,Akko,<Null>,<Null>,Gombe Central,NG01601,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,2.663498,0.202308
+37,Polygon,Akoko-Edo,NG012001,Akoko-Edo,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,2.056648,0.109873
+38,Polygon,Akoko North East,NG029001,Akoko North East,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.008681,0.028181
+39,Polygon,Akoko North West,NG029002,Akoko North West,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.027634,0.046644
+40,Polygon,Akoko South East,NG029003,Akoko South East,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,0.58377,0.018187
+41,Polygon,Akoko South West,NG029004,Akoko South West,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,0.875524,0.040118
+42,Polygon,Akpabuyo,NG009003,Akpabuyo,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,2.07624,0.06469
+43,Polygon,Akuku Toru,NG033004,Akuku Toru,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.420045,0.101608
+44,Polygon,Akure North,NG029005,Akure North,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.154186,0.055335
+45,Polygon,Akure South,NG029006,Akure South,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,0.809384,0.025222
+46,Polygon,Akwanga,NG026001,Akwanga,<Null>,<Null>,Nassarawa North,NG02602,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,1.228973,0.076952
+47,Polygon,Albasu,NG020002,Albasu,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.42917,0.036818
+48,Polygon,Aleiro,NG022001,Aleiro,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,0.67119,0.027835
+49,Polygon,Alimosho,NG025003,Alimosho,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.589767,0.015009
+50,Polygon,Alkaleri,NG005001,Alkaleri,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,3.421109,0.495845
+51,Polygon,Amuwo-Odofin,NG025004,Amuwo-Odofin,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.690195,0.011342
+52,Polygon,Anambra East,NG004002,Anambra East,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.759547,0.021152
+53,Polygon,Anambra West,NG004003,Anambra West,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,1.530236,0.077963
+54,Polygon,Anaocha,NG004004,Anaocha,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.437489,0.008231
+55,Polygon,Andoni,NG033005,Andoni,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.72716,0.020468
+56,Polygon,Aninri,NG014001,Aninri,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.808306,0.030187
+57,Polygon,Aniocha North,NG010001,Aniocha North,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.837233,0.033058
+58,Polygon,Aniocha South,NG010002,Aniocha South,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.215233,0.071115
+59,Polygon,Anka,NG037001,Anka,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,2.290371,0.211518
+60,Polygon,Ankpa,NG023003,Ankpa,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.534008,0.104971
+61,Polygon,Apa,NG007003,Apa,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.12954,0.075992
+62,Polygon,Apapa,NG025005,Apapa,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.281547,0.00164
+63,Polygon,Ardo-Kola,NG035001,Ardo-Kola,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,1.817347,0.185598
+64,Polygon,Arewa-Dandi,NG022002,Arewa-Dandi,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,3.356529,0.334784
+65,Polygon,Argungu,NG022003,Argungu,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.457047,0.091302
+66,Polygon,Arochukwu,NG001003,Arochukwu,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,1.263424,0.042547
+67,Polygon,Asa,NG024001,Asa,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,1.894629,0.109682
+68,Polygon,Asari-Toru,NG033006,Asari-Toru,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.534923,0.009376
+69,Polygon,Askira/Uba,NG008002,Askira/Uba,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.713605,0.206528
+70,Polygon,Atakumosa East,NG030003,Atakumosa East,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.919956,0.038003
+71,Polygon,Atakumosa West,NG030004,Atakumosa West,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.850278,0.030446
+72,Polygon,Atiba,NG031003,Atiba,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,2.044643,0.148558
+73,Polygon,Atigbo,NG031004,Atigbo,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,2.979319,0.236832
+74,Polygon,Augie,NG022004,Augie,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.580314,0.094944
+75,Polygon,Auyo,NG018001,Auyo,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.347195,0.035246
+76,Polygon,Awe,NG026002,Awe,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,2.572784,0.21675
+77,Polygon,Awgu,NG014002,Awgu,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.861356,0.036077
+78,Polygon,Awka North,NG004005,Awka North,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.689468,0.028229
+79,Polygon,Awka South,NG004006,Awka South,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.463896,0.01417
+80,Polygon,Ayamelum,NG004007,Ayamelum,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,1.123927,0.048266
+81,Polygon,Babura,NG018002,Babura,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.475611,0.08336
+82,Polygon,Badagry,NG025006,Badagry,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,1.088898,0.036985
+83,Polygon,Bade,NG036001,Bade,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,1.901654,0.069385
+84,Polygon,Bagudo,NG022005,Bagudo,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,3.517044,0.421049
+85,Polygon,Bagwai,NG020003,Bagwai,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.834662,0.035101
+86,Polygon,Bakassi,NG009005,Bakassi,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.105568,0.000342
+87,Polygon,Bakori,NG021001,Bakori,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.344553,0.062492
+88,Polygon,Bakura,NG037002,Bakura,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,1.616758,0.124928
+89,Polygon,Balanga,NG016002,Balanga,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.797545,0.13221
+90,Polygon,Bali,NG035002,Bali,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,4.263503,0.749373
+91,Polygon,Bama,NG008003,Bama,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,3.149546,0.415834
+92,Polygon,Barikin Ladi,NG032001,Barikin Ladi,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.532894,0.082087
+93,Polygon,Baruten,NG024002,Baruten,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,4.922642,0.796421
+94,Polygon,Bassa,NG023004,Bassa,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,2.186219,0.15863
+95,Polygon,Bassa,NG032002,Bassa,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.925439,0.135893
+96,Polygon,Batagarawa,NG021002,Batagarawa,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.218791,0.043634
+97,Polygon,Batsari,NG021003,Batsari,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.498616,0.098125
+98,Polygon,Bauchi,NG005002,Bauchi,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,2.544553,0.301523
+99,Polygon,Baure,NG021004,Baure,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.376405,0.065734
+100,Polygon,Bayo,NG008004,Bayo,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.435857,0.078176
+101,Polygon,Bebeji,NG020004,Bebeji,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.055501,0.060047
+102,Polygon,Bekwara,NG009006,Bekwara,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.689501,0.025746
+103,Polygon,Bende,NG001004,Bende,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,1.36038,0.050513
+104,Polygon,Biase,NG009007,Biase,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,1.513679,0.105499
+105,Polygon,Bichi,NG020005,Bichi,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.260962,0.05715
+106,Polygon,Bida,NG027003,Bida,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,0.251095,0.004286
+107,Polygon,Billiri,NG016003,Billiri,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.087838,0.062769
+108,Polygon,Bindawa,NG021005,Bindawa,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.159713,0.041397
+109,Polygon,Binji,NG034001,Binji,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.489406,0.069057
+110,Polygon,Biriniwa,NG018003,Biriniwa,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.753605,0.13262
+111,Polygon,Birni Kudu,NG018004,Birni Kudu,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.724775,0.116292
+112,Polygon,Birnin-Gwari,NG019001,Birnin-Gwari,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,4.462209,0.539869
+113,Polygon,Birnin Kebbi,NG022006,Birnin Kebbi,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.352512,0.089152
+114,Polygon,Birnin Magaji,NG037003,Birnin Magaji,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,1.496527,0.1031
+115,Polygon,Biu,NG008005,Biu,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.564246,0.271335
+116,Polygon,Bodinga,NG034002,Bodinga,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.105512,0.053106
+117,Polygon,Bogoro,NG005003,Bogoro,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.154825,0.07335
+118,Polygon,Boki,NG009008,Boki,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,2.143008,0.235809
+119,Polygon,Bokkos,NG032003,Bokkos,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.559063,0.141637
+120,Polygon,Boluwaduro,NG030005,Boluwaduro,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.521277,0.012213
+121,Polygon,Bomadi,NG010003,Bomadi,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.00459,0.010499
+122,Polygon,Bonny,NG033007,Bonny,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.286858,0.044943
+123,Polygon,Borgu,NG027004,Borgu,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,5.679438,0.929069
+124,Polygon,Boripe,NG030006,Boripe,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.608893,0.011828
+125,Polygon,Bosso,NG027005,Bosso,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,1.876768,0.125171
+126,Polygon,Brass,NG006001,Brass,<Null>,<Null>,Bayelsa East,NG00602,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,1.933176,0.076869
+127,Polygon,Buji,NG018005,Buji,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.072733,0.047142
+128,Polygon,Bukkuyum,NG037004,Bukkuyum,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,2.400285,0.273541
+129,Polygon,Bungudu,NG037005,Bungudu,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,2.840836,0.168688
+130,Polygon,Bunkure,NG020006,Bunkure,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.07529,0.036608
+131,Polygon,Bunza,NG022007,Bunza,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.468129,0.091672
+132,Polygon,Bursari,NG036002,Bursari,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.394301,0.317661
+133,Polygon,Buruku,NG007004,Buruku,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,2.049483,0.09604
+134,Polygon,Burutu,NG010004,Burutu,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,2.616223,0.157727
+135,Polygon,Bwari,NG015003,Bwari,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,11/29/16,4/17/19,<Null>,1.300714,0.086065
+136,Polygon,Calabar-Municipal,NG009010,Calabar-Municipal,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.516151,0.011215
+137,Polygon,Calabar South,NG009009,Calabar South,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.816586,0.015377
+138,Polygon,Chanchaga,NG027006,Chanchaga,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,0.294525,0.005204
+139,Polygon,Charanchi,NG021006,Charanchi,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.224723,0.040661
+140,Polygon,Chibok,NG008006,Chibok,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.576157,0.12563
+141,Polygon,Chikun,NG019002,Chikun,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,3.719035,0.370014
+142,Polygon,Dala,NG020007,Dala,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.216299,0.001113
+143,Polygon,Damaturu,NG036003,Damaturu,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.050496,0.19443
+144,Polygon,Damban,NG005004,Damban,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.300627,0.091038
+145,Polygon,Dambatta,NG020008,Dambatta,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.495723,0.06568
+146,Polygon,Damboa,NG008007,Damboa,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,3.952172,0.481961
+147,Polygon,Dan Musa,NG021007,Dan Musa,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.215493,0.067082
+148,Polygon,Dandi,NG022008,Dandi,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.736845,0.161172
+149,Polygon,Dandume,NG021008,Dandume,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.017348,0.03969
+150,Polygon,Dange-Shuni,NG034003,Dange-Shuni,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.405702,0.094408
+151,Polygon,Danja,NG021009,Danja,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.122297,0.039974
+152,Polygon,Darazo,NG005005,Darazo,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,2.967674,0.252626
+153,Polygon,Dass,NG005006,Dass,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.066297,0.056769
+154,Polygon,Daura,NG021010,Daura,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,0.598243,0.015958
+155,Polygon,Dawakin Kudu,NG020009,Dawakin Kudu,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.932817,0.031892
+156,Polygon,Dawakin Tofa,NG020010,Dawakin Tofa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.001759,0.036325
+157,Polygon,Degema,NG033008,Degema,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.864382,0.080402
+158,Polygon,Dekina,NG023005,Dekina,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,2.124285,0.197226
+159,Polygon,Demsa,NG002001,Demsa,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.923669,0.129068
+160,Polygon,Dikwa,NG008008,Dikwa,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.994908,0.156913
+161,Polygon,Doguwa,NG020011,Doguwa,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.922603,0.123134
+162,Polygon,Doma,NG026003,Doma,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,2.293912,0.204136
+163,Polygon,Donga,NG035003,Donga,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.020614,0.249223
+164,Polygon,Dukku,NG016004,Dukku,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,2.528161,0.305254
+165,Polygon,Dunukofia,NG004008,Dunukofia,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.466085,0.004361
+166,Polygon,Dutse,NG018006,Dutse,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.574622,0.08537
+167,Polygon,Dutsi,NG021011,Dutsi,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,0.788858,0.027107
+168,Polygon,Dutsin-Ma,NG021012,Dutsin-Ma,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.180626,0.053822
+169,Polygon,Eastern Obolo,NG003002,Eastern Obolo,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.695188,0.010018
+170,Polygon,Ebonyi,NG011004,Ebonyi,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.305406,0.041379
+171,Polygon,Edati,NG027007,Edati,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,1.299838,0.07495
+172,Polygon,Ede North,NG030007,Ede North,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.47144,0.008344
+173,Polygon,Ede South,NG030008,Ede South,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.566023,0.017624
+174,Polygon,Edu,NG024003,Edu,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,2.465375,0.208363
+175,Polygon,Efon,NG013003,Efon,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.59406,0.018868
+176,Polygon,Egbado North,NG028004,Egbado North,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.820608,0.151988
+177,Polygon,Egbado South,NG028005,Egbado South,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.200603,0.05961
+178,Polygon,Egbeda,NG031005,Egbeda,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.719374,0.021169
+179,Polygon,Egbedore,NG030009,Egbedore,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.827312,0.022026
+180,Polygon,Egor,NG012002,Egor,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,0.343331,0.006221
+181,Polygon,Ehime-Mbano,NG017003,Ehime-Mbano,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.521062,0.014228
+182,Polygon,Ejigbo,NG030010,Ejigbo,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,1.130485,0.029791
+183,Polygon,Ekeremor,NG006002,Ekeremor,<Null>,<Null>,Bayelsa West,NG00603,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,2.178786,0.148029
+184,Polygon,Eket,NG003003,Eket,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.668203,0.013546
+185,Polygon,Ekiti,NG024004,Ekiti,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,0.969626,0.038995
+186,Polygon,Ekiti East,NG013004,Ekiti East,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.686719,0.025775
+187,Polygon,Ekiti South West,NG013005,Ekiti South West,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.810631,0.027529
+188,Polygon,Ekiti West,NG013006,Ekiti West,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,1.04586,0.030666
+189,Polygon,Ekwusigo,NG004009,Ekwusigo,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.551292,0.009958
+190,Polygon,Eleme,NG033009,Eleme,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.417571,0.011135
+191,Polygon,Emohua,NG033010,Emohua,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.54888,0.067926
+192,Polygon,Emure,NG013007,Emure,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.584955,0.020473
+193,Polygon,Enugu East,NG014003,Enugu East,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.770673,0.03205
+194,Polygon,Enugu North,NG014004,Enugu North,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.548141,0.007628
+195,Polygon,Enugu South,NG014005,Enugu South,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.348292,0.006154
+196,Polygon,Epe,NG025007,Epe,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,2.401748,0.096547
+197,Polygon,Esan Central,NG012003,Esan Central,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,0.993178,0.021589
+198,Polygon,Esan North East,NG012004,Esan North East,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,0.970175,0.027977
+199,Polygon,Esan South East,NG012005,Esan South East,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.502404,0.106745
+200,Polygon,Esan West,NG012006,Esan West,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.223737,0.04214
+201,Polygon,Ese-Odo,NG029007,Ese-Odo,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.530001,0.088011
+202,Polygon,Esit - Eket,NG003004,Esit - Eket,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.466958,0.013807
+203,Polygon,Essien Udim,NG003005,Essien Udim,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.735536,0.023585
+204,Polygon,Etche,NG033011,Etche,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.126089,0.066534
+205,Polygon,Ethiope East,NG010005,Ethiope East,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.013851,0.031004
+206,Polygon,Ethiope West,NG010006,Ethiope West,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.119302,0.043863
+207,Polygon,Eti-Osa,NG025008,Eti-Osa,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.750129,0.015616
+208,Polygon,Etim Ekpo,NG003006,Etim Ekpo,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.842922,0.017969
+209,Polygon,Etinan,NG003007,Etinan,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.674628,0.014092
+210,Polygon,Etsako Central,NG012007,Etsako Central,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.245139,0.054232
+211,Polygon,Etsako East,NG012008,Etsako East,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.612517,0.09265
+212,Polygon,Etsako West,NG012009,Etsako West,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.442189,0.076821
+213,Polygon,Etung,NG009011,Etung,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,1.21775,0.066349
+214,Polygon,Ewekoro,NG028006,Ewekoro,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.050152,0.051182
+215,Polygon,Ezeagu,NG014006,Ezeagu,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,1.008235,0.052167
+216,Polygon,Ezinihitte,NG017004,Ezinihitte,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.429497,0.009827
+217,Polygon,Ezza North,NG011005,Ezza North,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,0.880307,0.033787
+218,Polygon,Ezza South,NG011006,Ezza South,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,0.853872,0.021576
+219,Polygon,Fagge,NG020012,Fagge,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.330827,0.003201
+220,Polygon,Fakai,NG022009,Fakai,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,2.399267,0.186026
+221,Polygon,Faskari,NG021013,Faskari,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.831345,0.1395
+222,Polygon,Fika,NG036004,Fika,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.243538,0.1782
+223,Polygon,Fufore,NG002002,Fufore,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,3.747953,0.389155
+224,Polygon,Funakaye,NG016005,Funakaye,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.997762,0.131636
+225,Polygon,Fune,NG036005,Fune,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,3.281636,0.454205
+226,Polygon,Funtua,NG021014,Funtua,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.121029,0.034991
+227,Polygon,Gabasawa,NG020013,Gabasawa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.29642,0.050741
+228,Polygon,Gada,NG034004,Gada,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.960351,0.126604
+229,Polygon,Gagarawa,NG018007,Gagarawa,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,0.972256,0.048467
+230,Polygon,Gamawa,NG005007,Gamawa,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,2.3735,0.24379
+231,Polygon,Ganjuwa,NG005008,Ganjuwa,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,3.335493,0.404153
+232,Polygon,Ganye,NG002003,Ganye,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,2.122051,0.171992
+233,Polygon,Garki,NG018008,Garki,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,2.094461,0.117163
+234,Polygon,Garko,NG020014,Garko,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.19549,0.036627
+235,Polygon,Garum Mallam,NG020015,Garum Mallam,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.591989,0.018889
+236,Polygon,Gashaka,NG035004,Gashaka,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.720047,0.686253
+237,Polygon,Gassol,NG035005,Gassol,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.141459,0.455184
+238,Polygon,Gaya,NG020016,Gaya,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.223203,0.047099
+239,Polygon,Gbako,NG027008,Gbako,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,1.966713,0.14404
+240,Polygon,Gboko,NG007005,Gboko,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.965469,0.155583
+241,Polygon,Geidam,NG036006,Geidam,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.665208,0.319617
+242,Polygon,Gezawa,NG020017,Gezawa,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.810132,0.028139
+243,Polygon,Giade,NG005009,Giade,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.271145,0.062132
+244,Polygon,Girei,NG002005,Girei,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.478029,0.098248
+245,Polygon,Giwa,NG019003,Giwa,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,2.085973,0.164312
+246,Polygon,Gokana,NG033012,Gokana,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.452241,0.010819
+247,Polygon,Gombe,NG016006,Gombe,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,0.254187,0.00373
+248,Polygon,Gombi,NG002004,Gombi,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.842475,0.178513
+249,Polygon,Goronyo,NG034006,Goronyo,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,2.315665,0.142599
+250,Polygon,Gubio,NG008009,Gubio,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.221293,0.218268
+251,Polygon,Gudu,NG034007,Gudu,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,2.207796,0.273936
+252,Polygon,Gujba,NG036007,Gujba,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.641218,0.287318
+253,Polygon,Gulani,NG036008,Gulani,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.193495,0.176145
+254,Polygon,Guma,NG007006,Guma,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,2.53387,0.234747
+255,Polygon,Gumel,NG018009,Gumel,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,0.574039,0.018922
+256,Polygon,Gummi,NG037006,Gummi,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,2.044008,0.21629
+257,Polygon,Gurara,NG027009,Gurara,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.098731,0.09307
+258,Polygon,Guri,NG018010,Guri,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.325339,0.088544
+259,Polygon,Gusau,NG037007,Gusau,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,3.497603,0.224776
+260,Polygon,Guyuk,NG002006,Guyuk,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.166444,0.056735
+261,Polygon,Guzamala,NG008010,Guzamala,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.400938,0.209488
+262,Polygon,Gwadabawa,NG034005,Gwadabawa,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.724782,0.083987
+263,Polygon,Gwagwalada,NG015004,Gwagwalada,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,11/29/16,4/17/19,<Null>,1.245525,0.08233
+264,Polygon,Gwale,NG020018,Gwale,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.279085,0.001962
+265,Polygon,Gwandu,NG022010,Gwandu,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.3936,0.087468
+266,Polygon,Gwaram,NG018011,Gwaram,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,2.402478,0.153846
+267,Polygon,Gwarzo,NG020019,Gwarzo,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.960124,0.036204
+268,Polygon,Gwer East,NG007007,Gwer East,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,2.003126,0.163344
+269,Polygon,Gwer West,NG007008,Gwer West,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.419437,0.117309
+270,Polygon,Gwiwa,NG018012,Gwiwa,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,0.835905,0.037587
+271,Polygon,Gwoza,NG008011,Gwoza,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.185716,0.242719
+272,Polygon,Hadejia,NG018013,Hadejia,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,0.210722,0.00268
+273,Polygon,Hawul,NG008012,Hawul,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.973643,0.166221
+274,Polygon,Hong,NG002007,Hong,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,2.233111,0.219587
+275,Polygon,Ibadan North,NG031006,Ibadan North,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.230378,0.00319
+276,Polygon,Ibadan North East,NG031007,Ibadan North East,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.172885,0.001084
+277,Polygon,Ibadan North West,NG031008,Ibadan North West,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.153546,0.000937
+278,Polygon,Ibadan South East,NG031009,Ibadan South East,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.160162,0.001149
+279,Polygon,Ibadan South West,NG031010,Ibadan South West,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.307988,0.003945
+280,Polygon,Ibaji,NG023006,Ibaji,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.505842,0.109207
+281,Polygon,Ibarapa Central,NG031011,Ibarapa Central,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.180247,0.055998
+282,Polygon,Ibarapa East,NG031012,Ibarapa East,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.31402,0.061664
+283,Polygon,Ibarapa North,NG031013,Ibarapa North,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.257018,0.078902
+284,Polygon,Ibeju/Lekki,NG025009,Ibeju/Lekki,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,1.428596,0.036954
+285,Polygon,Ibeno,NG003008,Ibeno,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,1.112235,0.019834
+286,Polygon,Ibesikpo Asutan,NG003009,Ibesikpo Asutan,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.597954,0.014278
+287,Polygon,Ibi,NG035006,Ibi,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.295786,0.219104
+288,Polygon,Ibiono Ibom,NG003010,Ibiono Ibom,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.98442,0.027421
+289,Polygon,Idah,NG023007,Idah,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,0.466334,0.01098
+290,Polygon,Idanre,NG029008,Idanre,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.868533,0.156825
+291,Polygon,Ideato North,NG017005,Ideato North,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.754513,0.014877
+292,Polygon,Ideato South,NG017006,Ideato South,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.413276,0.008504
+293,Polygon,Idemili North,NG004010,Idemili North,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.554048,0.010817
+294,Polygon,Idemili South,NG004011,Idemili South,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.601348,0.010722
+295,Polygon,Ido,NG031014,Ido,<Null>,<Null>,Oyo South,NG03103,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.477938,0.070935
+296,Polygon,Ido-Osi,NG013008,Ido-Osi,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.602453,0.018934
+297,Polygon,Ifako-Ijaye,NG025010,Ifako-Ijaye,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.267549,0.002703
+298,Polygon,Ife Central,NG030011,Ife Central,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.398803,0.009071
+299,Polygon,Ife East,NG030012,Ife East,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.752095,0.015707
+300,Polygon,Ife North,NG030013,Ife North,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,1.847017,0.073727
+301,Polygon,Ife South,NG030014,Ife South,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,1.406049,0.060431
+302,Polygon,Ifedayo,NG030015,Ifedayo,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.656353,0.011342
+303,Polygon,Ifedore,NG029009,Ifedore,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,0.728152,0.025996
+304,Polygon,Ifelodun,NG024005,Ifelodun,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,3.571633,0.282391
+305,Polygon,Ifelodun,NG030016,Ifelodun,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.479809,0.009756
+306,Polygon,Ifo,NG028007,Ifo,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.128587,0.044047
+307,Polygon,Igabi,NG019004,Igabi,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,2.798965,0.280349
+308,Polygon,Igalamela-Odolu,NG023008,Igalamela-Odolu,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,2.207144,0.173025
+309,Polygon,Igbo-Etiti,NG014007,Igbo-Etiti,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.792293,0.027314
+310,Polygon,Igbo-Eze North,NG014008,Igbo-Eze North,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.640699,0.024879
+311,Polygon,Igbo-Eze South,NG014009,Igbo-Eze South,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.645548,0.013922
+312,Polygon,Igueben,NG012010,Igueben,<Null>,<Null>,Edo Central,NG01202,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,0.996381,0.028573
+313,Polygon,Ihiala,NG004012,Ihiala,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.71083,0.019665
+314,Polygon,Ihitte/Uboma,NG017007,Ihitte/Uboma,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.445801,0.008851
+315,Polygon,Ijebu East,NG028008,Ijebu East,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,2.260153,0.177466
+316,Polygon,Ijebu North,NG028009,Ijebu North,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.207948,0.078052
+317,Polygon,Ijebu North East,NG028010,Ijebu North East,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.653124,0.017361
+318,Polygon,Ijebu Ode,NG028011,Ijebu Ode,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.695238,0.011665
+319,Polygon,Ijero,NG013009,Ijero,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.744208,0.030897
+320,Polygon,Ijumu,NG023009,Ijumu,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.7234,0.105144
+321,Polygon,Ika,NG003011,Ika,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.491249,0.00935
+322,Polygon,Ika North East,NG010007,Ika North East,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.984677,0.038216
+323,Polygon,Ika South,NG010008,Ika South,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.32192,0.035589
+324,Polygon,Ikara,NG019005,Ikara,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.813009,0.077893
+325,Polygon,Ikeduru,NG017008,Ikeduru,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.491347,0.014784
+326,Polygon,Ikeja,NG025011,Ikeja,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.372018,0.003809
+327,Polygon,Ikenne,NG028012,Ikenne,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.533221,0.011922
+328,Polygon,Ikere,NG013010,Ikere,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.613422,0.019437
+329,Polygon,Ikole,NG013011,Ikole,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,1.597014,0.087754
+330,Polygon,Ikom,NG009012,Ikom,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,2.092561,0.160745
+331,Polygon,Ikono,NG003012,Ikono,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.86766,0.02142
+332,Polygon,Ikorodu,NG025012,Ikorodu,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.869347,0.032616
+333,Polygon,Ikot Abasi,NG003013,Ikot Abasi,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.847532,0.027357
+334,Polygon,Ikot Ekpene,NG003014,Ikot Ekpene,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.414146,0.009453
+335,Polygon,Ikpoba-Okha,NG012011,Ikpoba-Okha,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.527901,0.070025
+336,Polygon,Ikwerre,NG033013,Ikwerre,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.091228,0.053673
+337,Polygon,Ikwo,NG011007,Ikwo,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.119113,0.053552
+338,Polygon,Ikwuano,NG001005,Ikwuano,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.752887,0.022714
+339,Polygon,Ila,NG030017,Ila,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.799635,0.022902
+340,Polygon,Ilaje,NG029010,Ilaje,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,2.149216,0.078758
+341,Polygon,Ile-Oluji-Okeigbo,NG029011,Ile-Oluji-Okeigbo,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.283592,0.048736
+342,Polygon,Ilejemeji,NG013012,Ilejemeji,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.372476,0.007764
+343,Polygon,Ilesha East,NG030018,Ilesha East,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.318094,0.0057
+344,Polygon,Ilesha West,NG030019,Ilesha West,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.291576,0.003488
+345,Polygon,Illela,NG034008,Illela,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.630883,0.090338
+346,Polygon,Ilorin East,NG024006,Ilorin East,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,1.202999,0.037064
+347,Polygon,Ilorin South,NG024007,Ilorin South,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,0.867323,0.020155
+348,Polygon,Ilorin West,NG024008,Ilorin West,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,0.543717,0.012237
+349,Polygon,Imeko-Afon,NG028013,Imeko-Afon,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,2.253841,0.14815
+350,Polygon,Ingawa,NG021015,Ingawa,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.448303,0.065685
+351,Polygon,Ini,NG003015,Ini,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.950457,0.031242
+352,Polygon,Ipokia,NG028014,Ipokia,<Null>,<Null>,Ogun West,NG02803,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.287851,0.046809
+353,Polygon,Irele,NG029012,Irele,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.283047,0.072874
+354,Polygon,Irepo,NG031015,Irepo,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.316746,0.080481
+355,Polygon,Irepodun,NG024009,Irepodun,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,1.485916,0.057522
+356,Polygon,Irepodun,NG030020,Irepodun,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.264457,0.002486
+357,Polygon,Irepodun/Ifelodun,NG013013,Irepodun/Ifelodun,<Null>,<Null>,Ekiti Central,NG01302,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.853815,0.026796
+358,Polygon,Irewole,NG030021,Irewole,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.617417,0.021475
+359,Polygon,Isa,NG034009,Isa,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,2.390395,0.180506
+360,Polygon,Ise/Orun,NG013014,Ise/Orun,<Null>,<Null>,Ekiti South,NG01301,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.876616,0.033898
+361,Polygon,Iseyin,NG031016,Iseyin,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,2.110517,0.148675
+362,Polygon,Ishielu,NG011008,Ishielu,<Null>,<Null>,Ebonyi Central,NG01102,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.473666,0.05682
+363,Polygon,Isi-Uzo,NG014010,Isi-Uzo,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,1.432942,0.069171
+364,Polygon,Isiala-Ngwa North,NG001006,Isiala-Ngwa North,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.863972,0.023132
+365,Polygon,Isiala-Ngwa South,NG001007,Isiala-Ngwa South,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.918367,0.022604
+366,Polygon,Isiala Mbano,NG017009,Isiala Mbano,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.592937,0.01253
+367,Polygon,Isin,NG024010,Isin,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,1.010471,0.051803
+368,Polygon,Isiukwuato,NG001008,Isiukwuato,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.775927,0.031235
+369,Polygon,Isokan,NG030022,Isokan,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.880582,0.035756
+370,Polygon,Isoko North,NG010009,Isoko North,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.512835,0.039343
+371,Polygon,Isoko South,NG010010,Isoko South,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.211531,0.056276
+372,Polygon,Isu,NG017010,Isu,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.296166,0.004293
+373,Polygon,Itas/Gadau,NG005010,Itas/Gadau,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,2.319879,0.137162
+374,Polygon,Itesiwaju,NG031017,Itesiwaju,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.856225,0.126394
+375,Polygon,Itu,NG003016,Itu,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.695595,0.014702
+376,Polygon,Ivo,NG011009,Ivo,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,0.734919,0.021779
+377,Polygon,Iwajowa,NG031018,Iwajowa,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,2.379395,0.195815
+378,Polygon,Iwo,NG030023,Iwo,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.813667,0.022348
+379,Polygon,Izzi,NG011010,Izzi,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.541087,0.08861
+380,Polygon,Jaba,NG019006,Jaba,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.076172,0.037426
+381,Polygon,Jada,NG002008,Jada,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,3.047352,0.213871
+382,Polygon,Jahun,NG018014,Jahun,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.486155,0.103448
+383,Polygon,Jakusko,NG036009,Jakusko,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.689351,0.293465
+384,Polygon,Jalingo,NG035007,Jalingo,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,0.71888,0.015654
+385,Polygon,Jama'are,NG005011,Jamaare,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,0.83495,0.031711
+386,Polygon,Jega,NG022011,Jega,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.730223,0.080211
+387,Polygon,Jema'a,NG019007,Jemaa,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.756631,0.116581
+388,Polygon,Jere,NG008013,Jere,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.889572,0.069979
+389,Polygon,Jibia,NG021016,Jibia,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,2.099338,0.088904
+390,Polygon,Jos East,NG032004,Jos East,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.133167,0.084719
+391,Polygon,Jos North,NG032005,Jos North,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,0.63028,0.021617
+392,Polygon,Jos South,NG032006,Jos South,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.001438,0.046653
+393,Polygon,Kabba/Bunu,NG023010,Kabba/Bunu,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,2.610909,0.220941
+394,Polygon,Kabo,NG020020,Kabo,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.045365,0.030885
+395,Polygon,Kachia,NG019008,Kachia,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,3.303723,0.378364
+396,Polygon,Kaduna North,NG019009,Kaduna North,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,0.324124,0.004904
+397,Polygon,Kaduna South,NG019010,Kaduna South,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,0.355852,0.004352
+398,Polygon,Kafin Hausa,NG018015,Kafin Hausa,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.425481,0.113882
+399,Polygon,Kafur,NG021017,Kafur,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.641166,0.084031
+400,Polygon,Kaga,NG008014,Kaga,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.325551,0.213446
+401,Polygon,Kagarko,NG019011,Kagarko,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,2.15692,0.157341
+402,Polygon,Kaiama,NG024011,Kaiama,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,3.651778,0.570965
+403,Polygon,Kaita,NG021018,Kaita,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.098191,0.059555
+404,Polygon,Kajola,NG031019,Kajola,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.933632,0.049565
+405,Polygon,Kajuru,NG019012,Kajuru,<Null>,<Null>,Kaduna Central,NG01901,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,3.337651,0.248355
+406,Polygon,Kala/Balge,NG008015,Kala/Balge,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.871731,0.155904
+407,Polygon,Kalgo,NG022012,Kalgo,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.194224,0.050472
+408,Polygon,Kaltungo,NG016007,Kaltungo,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.333928,0.095047
+409,Polygon,Kanam,NG032007,Kanam,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,2.588371,0.226097
+410,Polygon,Kankara,NG021019,Kankara,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.807101,0.115792
+411,Polygon,Kanke,NG032008,Kanke,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.390781,0.077404
+412,Polygon,Kankia,NG021020,Kankia,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.486365,0.062734
+413,Polygon,Kano Municipal,NG020021,Kano Municipal,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.206311,0.001426
+414,Polygon,Karasuwa,NG036010,Karasuwa,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.093386,0.110979
+415,Polygon,Karaye,NG020022,Karaye,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.842376,0.03731
+416,Polygon,Karim-Lamido,NG035008,Karim-Lamido,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.89025,0.54401
+417,Polygon,Karu,NG026004,Karu,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,2.573639,0.237271
+418,Polygon,Katagum,NG005012,Katagum,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.936212,0.110004
+419,Polygon,Katcha,NG027010,Katcha,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.541714,0.135786
+420,Polygon,Katsina,NG021021,Katsina,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,0.454163,0.012333
+421,Polygon,Katsina-Ala,NG007009,Katsina-Ala,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,2.43647,0.220367
+422,Polygon,Kaugama,NG018016,Kaugama,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.770621,0.067967
+423,Polygon,Kaura,NG019013,Kaura,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,0.932776,0.042746
+424,Polygon,Kaura Namoda,NG037008,Kaura Namoda,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,1.478966,0.072022
+425,Polygon,Kauru,NG019014,Kauru,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.955539,0.207326
+426,Polygon,Kazaure,NG018017,Kazaure,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.037616,0.031797
+427,Polygon,Keana,NG026005,Keana,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,1.646208,0.095629
+428,Polygon,Kebbe,NG034010,Kebbe,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,2.314469,0.217864
+429,Polygon,Keffi,NG026006,Keffi,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,0.386133,0.009271
+430,Polygon,Khana,NG033014,Khana,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.990285,0.045553
+431,Polygon,Kibiya,NG020023,Kibiya,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.822322,0.036173
+432,Polygon,Kirfi,NG005013,Kirfi,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.898007,0.187323
+433,Polygon,Kiri Kasamma,NG018018,Kiri Kasamma,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.328263,0.069029
+434,Polygon,Kiru,NG020024,Kiru,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.668117,0.074969
+435,Polygon,Kiyawa,NG018019,Kiyawa,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.607269,0.08557
+436,Polygon,Kogi,NG023011,Kogi,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.832048,0.122583
+437,Polygon,Koko/Besse,NG022013,Koko/Besse,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.901311,0.111281
+438,Polygon,Kokona,NG026007,Kokona,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,2.329736,0.20998
+439,Polygon,Kolokuma/Opokuma,NG006003,Kolokuma/Opokuma,<Null>,<Null>,Bayelsa Central,NG00601,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,0.798169,0.028586
+440,Polygon,Konduga,NG008016,Konduga,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,5.285051,0.493959
+441,Polygon,Konshisha,NG007010,Konshisha,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.867771,0.137886
+442,Polygon,Kontagora,NG027011,Kontagora,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,1.849329,0.146329
+443,Polygon,Kosofe,NG025013,Kosofe,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.402183,0.006669
+444,Polygon,Kubau,NG019015,Kubau,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,2.308526,0.195305
+445,Polygon,Kudan,NG019016,Kudan,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,0.883572,0.027665
+446,Polygon,Kuje,NG015005,Kuje,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,11/29/16,4/17/19,<Null>,1.8352,0.125893
+447,Polygon,Kukawa,NG008017,Kukawa,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.581646,0.409573
+448,Polygon,Kumbotso,NG020025,Kumbotso,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.668409,0.015903
+449,Polygon,Kunchi,NG020026,Kunchi,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.992048,0.043303
+450,Polygon,Kura,NG020027,Kura,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.681408,0.016258
+451,Polygon,Kurfi,NG021022,Kurfi,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.075535,0.04798
+452,Polygon,Kurmi,NG035009,Kurmi,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.026388,0.35614
+453,Polygon,Kusada,NG021023,Kusada,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,0.961004,0.037894
+454,Polygon,Kwali,NG015006,Kwali,<Null>,<Null>,Federal Capital Territory,NG01501,Federal Capital Territory,NG015,Nigeria,NG,11/29/16,4/17/19,<Null>,1.467867,0.102921
+455,Polygon,Kwami,NG016008,Kwami,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.969669,0.141923
+456,Polygon,Kwande,NG007011,Kwande,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,2.207702,0.19236
+457,Polygon,Kware,NG034011,Kware,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.337674,0.049674
+458,Polygon,Kwaya Kusar,NG008018,Kwaya Kusar,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.119672,0.061709
+459,Polygon,Lafia,NG026008,Lafia,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,3.272937,0.218312
+460,Polygon,Lagelu,NG031020,Lagelu,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.879674,0.022349
+461,Polygon,Lagos Island,NG025014,Lagos Island,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.104108,0.000703
+462,Polygon,Lagos Mainland,NG025015,Lagos Mainland,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.197079,0.001921
+463,Polygon,Lamurde,NG002009,Lamurde,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.420854,0.091071
+464,Polygon,Langtang North,NG032009,Langtang North,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.449416,0.064352
+465,Polygon,Langtang South,NG032010,Langtang South,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.445969,0.098476
+466,Polygon,Lapai,NG027012,Lapai,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,3.398111,0.249008
+467,Polygon,Lau,NG035010,Lau,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,1.679128,0.136327
+468,Polygon,Lavun,NG027013,Lavun,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.135031,0.213168
+469,Polygon,Lere,NG019017,Lere,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,2.57068,0.18997
+470,Polygon,Logo,NG007012,Logo,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.694668,0.133225
+471,Polygon,Lokoja,NG023012,Lokoja,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,3.51907,0.262714
+472,Polygon,Machina,NG036011,Machina,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,1.779161,0.106662
+473,Polygon,Madagali,NG002010,Madagali,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.190357,0.068676
+474,Polygon,Madobi,NG020028,Madobi,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.766208,0.021395
+475,Polygon,Mafa,NG008019,Mafa,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.460498,0.23687
+476,Polygon,Magama,NG027014,Magama,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,3.514294,0.334867
+477,Polygon,Magumeri,NG008020,Magumeri,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,3.011609,0.392771
+478,Polygon,Mai'adua,NG021024,Maiadua,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.122405,0.05164
+479,Polygon,Maiduguri,NG008021,Maiduguri,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,0.519518,0.011603
+480,Polygon,Maigatari,NG018020,Maigatari,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.342874,0.080277
+481,Polygon,Maiha,NG002011,Maiha,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.754502,0.111811
+482,Polygon,Maiyama,NG022014,Maiyama,<Null>,<Null>,Kebbi Central,NG02201,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,2.095438,0.110726
+483,Polygon,Makoda,NG020029,Makoda,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.425186,0.033408
+484,Polygon,Makurdi,NG007013,Makurdi,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,0.99094,0.066572
+485,Polygon,Malam Madori,NG018021,Malam Madori,<Null>,<Null>,Jigawa North-East,NG01801,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.527715,0.067091
+486,Polygon,Malumfashi,NG021025,Malumfashi,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.513209,0.066867
+487,Polygon,Mangu,NG032011,Mangu,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,2.118042,0.132506
+488,Polygon,Mani,NG021026,Mani,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.452342,0.055855
+489,Polygon,Maradun,NG037009,Maradun,<Null>,<Null>,Zamfara West,NG03703,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,2.421254,0.229229
+490,Polygon,Mariga,NG027015,Mariga,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,3.574326,0.47689
+491,Polygon,Markafi,NG019018,Markafi,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.05158,0.047387
+492,Polygon,Marte,NG008022,Marte,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.272926,0.245922
+493,Polygon,Maru,NG037010,Maru,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,5.089444,0.597959
+494,Polygon,Mashegu,NG027016,Mashegu,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,4.498605,0.766634
+495,Polygon,Mashi,NG021027,Mashi,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.453791,0.078225
+496,Polygon,Matazu,NG021028,Matazu,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,0.961701,0.044845
+497,Polygon,Mayo-Belwa,NG002012,Mayo-Belwa,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,2.728931,0.173412
+498,Polygon,Mbaitoli,NG017011,Mbaitoli,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.600581,0.016323
+499,Polygon,Mbo,NG003017,Mbo,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,1.933198,0.01968
+500,Polygon,Michika,NG002013,Michika,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.113935,0.066966
+501,Polygon,Miga,NG018022,Miga,<Null>,<Null>,Jigawa South-West,NG01803,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.012385,0.047278
+502,Polygon,Mikang,NG032012,Mikang,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.289164,0.064569
+503,Polygon,Minjibir,NG020030,Minjibir,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.883081,0.035839
+504,Polygon,Misau,NG005014,Misau,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.415502,0.082635
+505,Polygon,Mkpat Enin,NG003018,Mkpat Enin,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.983547,0.028548
+506,Polygon,Moba,NG013015,Moba,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.58897,0.016172
+507,Polygon,Mobbar,NG008023,Mobbar,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.534845,0.225422
+508,Polygon,Mokwa,NG027017,Mokwa,<Null>,<Null>,Niger South,NG02703,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,6.768155,0.436076
+509,Polygon,Monguno,NG008024,Monguno,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.423728,0.157379
+510,Polygon,Mopa-Muro,NG023013,Mopa-Muro,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.26617,0.068366
+511,Polygon,Moro,NG024012,Moro,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,2.306689,0.256483
+512,Polygon,Mubi North,NG002014,Mubi North,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.046657,0.062198
+513,Polygon,Mubi South,NG002015,Mubi South,<Null>,<Null>,Adamawa North,NG00202,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,0.974724,0.041478
+514,Polygon,Musawa,NG021029,Musawa,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.3668,0.065417
+515,Polygon,Mushin,NG025016,Mushin,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.182036,0.001354
+516,Polygon,Muya,NG027018,Muya,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.064672,0.171991
+517,Polygon,Nafada,NG016009,Nafada,<Null>,<Null>,Gombe North,NG01602,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.682586,0.130559
+518,Polygon,Nangere,NG036012,Nangere,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,1.774226,0.0866
+519,Polygon,Nasarawa,NG020031,Nasarawa,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.286237,0.00346
+520,Polygon,Nasarawa,NG026009,Nasarawa,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,2.859654,0.398429
+521,Polygon,Nasarawa-Eggon,NG026010,Nasarawa-Eggon,<Null>,<Null>,Nassarawa North,NG02602,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,1.591941,0.103406
+522,Polygon,Ndokwa East,NG010011,Ndokwa East,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,2.300405,0.131364
+523,Polygon,Ndokwa West,NG010012,Ndokwa West,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.581812,0.06711
+524,Polygon,Nembe,NG006004,Nembe,<Null>,<Null>,Bayelsa East,NG00602,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,1.762058,0.114336
+525,Polygon,Ngala,NG008025,Ngala,<Null>,<Null>,Borno Central,NG00801,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.807494,0.11992
+526,Polygon,Nganzai,NG008026,Nganzai,<Null>,<Null>,Borno North,NG00802,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,2.306222,0.192372
+527,Polygon,Ngaski,NG022015,Ngaski,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,3.068837,0.215264
+528,Polygon,Ngor-Okpala,NG017012,Ngor-Okpala,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.985119,0.044232
+529,Polygon,Nguru,NG036013,Nguru,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,1.186747,0.068036
+530,Polygon,Ningi,NG005015,Ningi,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,2.626796,0.384581
+531,Polygon,Njaba,NG017013,Njaba,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.424417,0.006405
+532,Polygon,Njikoka,NG004013,Njikoka,<Null>,<Null>,Anambra Central,NG00401,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.461661,0.007962
+533,Polygon,Nkanu East,NG014011,Nkanu East,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,1.380343,0.062124
+534,Polygon,Nkanu West,NG014012,Nkanu West,<Null>,<Null>,Enugu East,NG01402,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.710613,0.020832
+535,Polygon,Nkwerre,NG017014,Nkwerre,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.274612,0.002861
+536,Polygon,Nnewi North,NG004014,Nnewi North,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.33104,0.005602
+537,Polygon,Nnewi South,NG004015,Nnewi South,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.55923,0.012596
+538,Polygon,Nsit Atai,NG003019,Nsit Atai,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.516742,0.010657
+539,Polygon,Nsit Ibom,NG003020,Nsit Ibom,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.532428,0.010652
+540,Polygon,Nsit Ubium,NG003021,Nsit Ubium,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.626367,0.016379
+541,Polygon,Nsukka,NG014013,Nsukka,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,1.444727,0.045512
+542,Polygon,Numan,NG002016,Numan,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.602772,0.068704
+543,Polygon,Nwangele,NG017015,Nwangele,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.36642,0.005686
+544,Polygon,Obafemi-Owode,NG028015,Obafemi-Owode,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.77917,0.120672
+545,Polygon,Obanliku,NG009013,Obanliku,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,1.42014,0.07673
+546,Polygon,Obi,NG007014,Obi,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,0.899677,0.040675
+547,Polygon,Obi,NG026011,Obi,<Null>,<Null>,Nassarawa South,NG02601,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,1.500567,0.083436
+548,Polygon,Obi Ngwa,NG001009,Obi Ngwa,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.877278,0.032944
+549,Polygon,Obia/Akpor,NG033015,Obia/Akpor,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.817311,0.021005
+550,Polygon,Obokun,NG030024,Obokun,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.896861,0.041651
+551,Polygon,Obot Akara,NG003022,Obot Akara,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.635477,0.019157
+552,Polygon,Obowo,NG017016,Obowo,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.378997,0.007054
+553,Polygon,Obubra,NG009014,Obubra,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,1.794293,0.093491
+554,Polygon,Obudu,NG009015,Obudu,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.885029,0.038245
+555,Polygon,Odeda,NG028016,Odeda,<Null>,<Null>,Ogun Central,NG02801,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.920277,0.117553
+556,Polygon,Odigbo,NG029013,Odigbo,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,2.495137,0.153647
+557,Polygon,Odo-Otin,NG030025,Odo-Otin,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.74657,0.023861
+558,Polygon,Odogbolu,NG028017,Odogbolu,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.933346,0.044794
+559,Polygon,Odukpani,NG009016,Odukpani,<Null>,<Null>,Cross River South,NG00903,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,2.374509,0.110488
+560,Polygon,Offa,NG024013,Offa,<Null>,<Null>,Kwara Central,NG02401,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,0.387387,0.007738
+561,Polygon,Ofu,NG023014,Ofu,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,2.42394,0.140479
+562,Polygon,Ogba/Egbema/Ndoni,NG033016,Ogba/Egbema/Ndoni,<Null>,<Null>,Rivers West,NG03303,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,1.733889,0.078193
+563,Polygon,Ogbadibo,NG007015,Ogbadibo,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.023937,0.04933
+564,Polygon,Ogbaru,NG004016,Ogbaru,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,1.137469,0.04228
+565,Polygon,Ogbia,NG006005,Ogbia,<Null>,<Null>,Bayelsa East,NG00602,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,1.099634,0.055279
+566,Polygon,Ogbomosho North,NG031021,Ogbomosho North,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.395902,0.007476
+567,Polygon,Ogbomosho South,NG031022,Ogbomosho South,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.275539,0.002378
+568,Polygon,Ogo Oluwa,NG031023,Ogo Oluwa,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.852566,0.030757
+569,Polygon,Ogoja,NG009017,Ogoja,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,1.657667,0.074623
+570,Polygon,Ogori/Magongo,NG023015,Ogori/Magongo,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,0.345357,0.006497
+571,Polygon,Ogu/Bolo,NG033017,Ogu/Bolo,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.601465,0.010596
+572,Polygon,Ogun waterside,NG028018,Ogun waterside,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,1.815678,0.079252
+573,Polygon,Oguta,NG017017,Oguta,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.868206,0.034468
+574,Polygon,Ohafia,NG001010,Ohafia,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.946686,0.035926
+575,Polygon,Ohaji/Egbema,NG017018,Ohaji/Egbema,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,1.350536,0.073099
+576,Polygon,Ohaozara,NG011011,Ohaozara,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,0.862302,0.027228
+577,Polygon,Ohaukwu,NG011012,Ohaukwu,<Null>,<Null>,Ebonyi North,NG01103,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.179983,0.049256
+578,Polygon,Ohimini,NG007016,Ohimini,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.003114,0.049022
+579,Polygon,Oji-River,NG014014,Oji-River,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.939127,0.03361
+580,Polygon,Ojo,NG025017,Ojo,<Null>,<Null>,Lagos West,NG02501,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.668769,0.013216
+581,Polygon,Oju,NG007017,Oju,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.629826,0.097379
+582,Polygon,Oke-Ero,NG024014,Oke-Ero,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,1.1755,0.035749
+583,Polygon,Okehi,NG023016,Okehi,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.373457,0.054187
+584,Polygon,Okene,NG023017,Okene,<Null>,<Null>,Kogi Central,NG02301,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.005274,0.024438
+585,Polygon,Okigwe,NG017019,Okigwe,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.785735,0.025058
+586,Polygon,Okitipupa,NG029014,Okitipupa,<Null>,<Null>,Ondo South,NG02903,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.299822,0.069954
+587,Polygon,Okobo,NG003023,Okobo,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.711862,0.024543
+588,Polygon,Okpe,NG010013,Okpe,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.174791,0.039208
+589,Polygon,Okpokwu,NG007018,Okpokwu,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.412826,0.075666
+590,Polygon,Okrika,NG033018,Okrika,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.94748,0.023344
+591,Polygon,Ola-oluwa,NG030026,Ola-oluwa,<Null>,<Null>,Osun West,NG03003,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.702348,0.026731
+592,Polygon,Olamabolo,NG023018,Olamabolo,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.467109,0.081089
+593,Polygon,Olorunda,NG030027,Olorunda,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.548402,0.008895
+594,Polygon,Olorunsogo,NG031024,Olorunsogo,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.38662,0.086915
+595,Polygon,Oluyole,NG031025,Oluyole,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.016013,0.054686
+596,Polygon,Omala,NG023019,Omala,<Null>,<Null>,Kogi East,NG02302,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.635655,0.130481
+597,Polygon,Omumma,NG033019,Omumma,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.599861,0.012947
+598,Polygon,Ona-Ara,NG031026,Ona-Ara,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,0.842972,0.027215
+599,Polygon,Ondo East,NG029015,Ondo East,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.406148,0.036711
+600,Polygon,Ondo West,NG029016,Ondo West,<Null>,<Null>,Ondo Central,NG02901,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.338728,0.078508
+601,Polygon,Onicha,NG011013,Onicha,<Null>,<Null>,Ebonyi South,NG01101,Ebonyi,NG011,Nigeria,NG,11/29/16,4/17/19,<Null>,1.267147,0.035882
+602,Polygon,Onitsha North,NG004017,Onitsha North,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.254337,0.003073
+603,Polygon,Onitsha South,NG004018,Onitsha South,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.126354,0.00081
+604,Polygon,Onna,NG003024,Onna,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.654078,0.013359
+605,Polygon,Opobo/Nkoro,NG033020,Opobo/Nkoro,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.514515,0.009367
+606,Polygon,Oredo,NG012012,Oredo,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,0.75639,0.020462
+607,Polygon,Orelope,NG031027,Orelope,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.274656,0.074929
+608,Polygon,Orhionmwon,NG012013,Orhionmwon,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,2.432419,0.196927
+609,Polygon,Ori Ire,NG031028,Ori Ire,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.937569,0.166944
+610,Polygon,Oriade,NG030028,Oriade,<Null>,<Null>,Osun East,NG03002,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,1.094542,0.037734
+611,Polygon,Orlu,NG017020,Orlu,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.506815,0.010019
+612,Polygon,Orolu,NG030029,Orolu,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.42825,0.008957
+613,Polygon,Oron,NG003025,Oron,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.295065,0.00425
+614,Polygon,Orsu,NG017021,Orsu,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.359738,0.006129
+615,Polygon,Oru East,NG017022,Oru East,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.621516,0.010728
+616,Polygon,Oru West,NG017023,Oru West,<Null>,<Null>,Imo West,NG01703,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.496547,0.007898
+617,Polygon,Oruk Anam,NG003026,Oruk Anam,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,1.043442,0.044384
+618,Polygon,Orumba North,NG004019,Orumba North,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.942611,0.026222
+619,Polygon,Orumba South,NG004020,Orumba South,<Null>,<Null>,Anambra South,NG00403,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.726567,0.015375
+620,Polygon,Ose,NG029017,Ose,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,2.115287,0.116654
+621,Polygon,Oshimili North,NG010014,Oshimili North,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.029924,0.041696
+622,Polygon,Oshimili South,NG010015,Oshimili South,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.90427,0.021765
+623,Polygon,Oshodi-Isolo,NG025018,Oshodi-Isolo,<Null>,<Null>,Lagos West,NG02501,sokoto,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.315352,0.003608
+624,Polygon,Osisioma Ngwa,NG001011,Osisioma Ngwa,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.604804,0.014254
+625,Polygon,Osogbo,NG030030,Osogbo,<Null>,<Null>,Osun Central,NG03001,Osun,NG030,Nigeria,NG,11/29/16,4/17/19,<Null>,0.36162,0.004999
+626,Polygon,Oturkpo,NG007019,Oturkpo,<Null>,<Null>,Benue South,NG00703,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.999926,0.111623
+627,Polygon,Ovia North East,NG012014,Ovia North East,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,3.271525,0.191135
+628,Polygon,Ovia South West,NG012015,Ovia South West,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,2.666182,0.226598
+629,Polygon,Owan East,NG012016,Owan East,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.51909,0.100512
+630,Polygon,Owan West,NG012017,Owan West,<Null>,<Null>,Edo North,NG01203,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.151283,0.060537
+631,Polygon,Owerri-Municipal,NG017026,Owerri-Municipal,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.28891,0.004594
+632,Polygon,Owerri North,NG017024,Owerri North,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.702086,0.015826
+633,Polygon,Owerri West,NG017025,Owerri West,<Null>,<Null>,Imo East,NG01701,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.881805,0.023362
+634,Polygon,Owo,NG029018,Owo,<Null>,<Null>,Ondo North,NG02902,Ondo,NG029,Nigeria,NG,11/29/16,4/17/19,<Null>,1.497398,0.093185
+635,Polygon,Oye,NG013016,Oye,<Null>,<Null>,Ekiti North,NG01303,Ekiti,NG013,Nigeria,NG,11/29/16,4/17/19,<Null>,0.83278,0.041474
+636,Polygon,Oyi,NG004021,Oyi,<Null>,<Null>,Anambra North,NG00402,Anambra,NG004,Nigeria,NG,11/29/16,4/17/19,<Null>,0.461526,0.011037
+637,Polygon,Oyigbo,NG033021,Oyigbo,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.921945,0.02016
+638,Polygon,Oyo East,NG031029,Oyo East,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.065473,0.029295
+639,Polygon,Oyo West,NG031030,Oyo West,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.358344,0.048842
+640,Polygon,Oyun,NG024015,Oyun,<Null>,<Null>,Kwara South,NG02403,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,1.447185,0.041748
+641,Polygon,Paikoro,NG027019,Paikoro,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.825876,0.171981
+642,Polygon,Pankshin,NG032013,Pankshin,<Null>,<Null>,Plateau Central,NG03201,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,2.043543,0.118058
+643,Polygon,Patani,NG010016,Patani,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.946751,0.018438
+644,Polygon,Pategi,NG024016,Pategi,<Null>,<Null>,Kwara North,NG02402,Kwara,NG024,Nigeria,NG,11/29/16,4/17/19,<Null>,2.221701,0.238928
+645,Polygon,Port-Harcourt,NG033022,Port-Harcourt,<Null>,<Null>,Rivers East,NG03301,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.515175,0.00882
+646,Polygon,Potiskum,NG036014,Potiskum,<Null>,<Null>,Yobe South,NG03603,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,0.905953,0.047762
+647,Polygon,Qua'an Pan,NG032014,Quaan Pan,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,2.303706,0.208712
+648,Polygon,Rabah,NG034012,Rabah,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,2.253305,0.199448
+649,Polygon,Rafi,NG027020,Rafi,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.978073,0.303771
+650,Polygon,Rano,NG020032,Rano,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.999832,0.042868
+651,Polygon,Remo North,NG028019,Remo North,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.594874,0.017102
+652,Polygon,Rijau,NG027021,Rijau,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,3.260586,0.258093
+653,Polygon,Rimi,NG021030,Rimi,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.24742,0.040383
+654,Polygon,Rimin Gado,NG020033,Rimin Gado,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.859988,0.022143
+655,Polygon,Ringim,NG018023,Ringim,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.585308,0.084801
+656,Polygon,Riyom,NG032015,Riyom,<Null>,<Null>,Plateau North,NG03202,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,1.266718,0.068229
+657,Polygon,Rogo,NG020034,Rogo,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.031585,0.066168
+658,Polygon,Roni,NG018024,Roni,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.051611,0.025305
+659,Polygon,Sabon-Gari,NG019019,Sabon-Gari,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,0.681081,0.021735
+660,Polygon,Sabon Birni,NG034013,Sabon Birni,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.862335,0.198473
+661,Polygon,Sabuwa,NG021031,Sabuwa,<Null>,<Null>,Katsina South,NG02103,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.297889,0.057574
+662,Polygon,Safana,NG021032,Safana,<Null>,<Null>,Katsina Central,NG02101,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.444392,0.115554
+663,Polygon,Sagbama,NG006006,Sagbama,<Null>,<Null>,Bayelsa West,NG00603,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,2.32221,0.077373
+664,Polygon,Sakaba,NG022016,Sakaba,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.635174,0.120193
+665,Polygon,Saki East,NG031031,Saki East,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.605512,0.112368
+666,Polygon,Saki West,NG031032,Saki West,<Null>,<Null>,Oyo North,NG03102,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,2.047486,0.154395
+667,Polygon,Sandamu,NG021033,Sandamu,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,0.822363,0.027241
+668,Polygon,Sanga,NG019020,Sanga,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,2.1017,0.12293
+669,Polygon,Sapele,NG010017,Sapele,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.943386,0.035036
+670,Polygon,Sardauna,NG035011,Sardauna,<Null>,<Null>,Taraba Central,NG03501,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.155695,0.375986
+671,Polygon,Shagamu,NG028020,Shagamu,<Null>,<Null>,Ogun East,NG02802,Ogun,NG028,Nigeria,NG,11/29/16,4/17/19,<Null>,0.974435,0.04903
+672,Polygon,Shagari,NG034014,Shagari,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.779349,0.108957
+673,Polygon,Shanga,NG022017,Shanga,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,2.700801,0.224437
+674,Polygon,Shani,NG008027,Shani,<Null>,<Null>,Borno South,NG00803,Borno,NG008,Nigeria,NG,11/29/16,4/17/19,<Null>,1.508631,0.101077
+675,Polygon,Shanono,NG020035,Shanono,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.013528,0.042187
+676,Polygon,Shelleng,NG002017,Shelleng,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.588681,0.099388
+677,Polygon,Shendam,NG032016,Shendam,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,2.59711,0.200463
+678,Polygon,Shinkafi,NG037011,Shinkafi,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,1.385404,0.065239
+679,Polygon,Shira,NG005016,Shira,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,1.629427,0.113555
+680,Polygon,Shiroro,NG027022,Shiroro,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,4.34022,0.431401
+681,Polygon,Shomgom,NG016010,Shomgom,<Null>,<Null>,Gombe South,NG01603,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,1.476471,0.07149
+682,Polygon,Shomolu,NG025019,Shomolu,<Null>,<Null>,Lagos East,NG02503,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.13782,0.000914
+683,Polygon,Silame,NG034015,Silame,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.031551,0.066517
+684,Polygon,Soba,NG019021,Soba,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.872174,0.185928
+685,Polygon,Sokoto North,NG034016,Sokoto North,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,0.26078,0.003336
+686,Polygon,Sokoto South,NG034017,Sokoto South,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,0.221974,0.002378
+687,Polygon,Song,NG002018,Song,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,2.757057,0.332858
+688,Polygon,Southern Ijaw,NG006007,Southern Ijaw,<Null>,<Null>,Bayelsa Central,NG00601,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,2.579335,0.220659
+689,Polygon,Sule-Tankarkar,NG018025,Sule-Tankarkar,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.528221,0.102561
+690,Polygon,Suleja,NG027023,Suleja,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,0.50146,0.010626
+691,Polygon,Sumaila,NG020036,Sumaila,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.488841,0.103476
+692,Polygon,Suru,NG022018,Suru,<Null>,<Null>,Kebbi North,NG02202,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.862976,0.130077
+693,Polygon,Surulere,NG025020,Surulere,<Null>,<Null>,Lagos Central,NG02502,Lagos,NG025,Nigeria,NG,11/29/16,4/17/19,<Null>,0.213765,0.001598
+694,Polygon,Surulere,NG031033,Surulere,<Null>,<Null>,Oyo Central,NG03101,Oyo,NG031,Nigeria,NG,11/29/16,4/17/19,<Null>,1.32692,0.085041
+695,Polygon,Tafa,NG027024,Tafa,<Null>,<Null>,Niger East,NG02701,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,0.670943,0.019875
+696,Polygon,Tafawa-Balewa,NG005017,Tafawa-Balewa,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,3.651847,0.202321
+697,Polygon,Tai,NG033023,Tai,<Null>,<Null>,Rivers South East,NG03302,Rivers,NG033,Nigeria,NG,11/29/16,4/17/19,<Null>,0.508084,0.013089
+698,Polygon,Takai,NG020037,Takai,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.274181,0.049567
+699,Polygon,Takum,NG035012,Takum,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,2.917603,0.195357
+700,Polygon,Talata Mafara,NG037012,Talata Mafara,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,1.552346,0.121836
+701,Polygon,Tambuwal,NG034018,Tambuwal,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,2.440706,0.152865
+702,Polygon,Tangaza,NG034019,Tangaza,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.923435,0.198291
+703,Polygon,Tarauni,NG020038,Tarauni,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.222192,0.002215
+704,Polygon,Tarka,NG007020,Tarka,<Null>,<Null>,Benue North West,NG00702,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,0.834291,0.039127
+705,Polygon,Tarmua,NG036015,Tarmua,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,2.903186,0.375974
+706,Polygon,Taura,NG018026,Taura,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,1.238748,0.054487
+707,Polygon,Tofa,NG020039,Tofa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.609727,0.015828
+708,Polygon,Toro,NG005018,Toro,<Null>,<Null>,Bauchi South,NG00503,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,3.708589,0.567871
+709,Polygon,Toto,NG026012,Toto,<Null>,<Null>,Nassarawa West,NG02603,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,2.438788,0.244828
+710,Polygon,Toungo,NG002019,Toungo,<Null>,<Null>,Adamawa South,NG00203,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,3.360822,0.457437
+711,Polygon,Tsafe,NG037013,Tsafe,<Null>,<Null>,Zamfara Central,NG03701,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,1.950269,0.150191
+712,Polygon,Tsanyawa,NG020040,Tsanyawa,<Null>,<Null>,Kano North,NG02003,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.949592,0.044518
+713,Polygon,Tudun Wada,NG020041,Tudun Wada,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,2.091481,0.101574
+714,Polygon,Tureta,NG034020,Tureta,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.802457,0.191199
+715,Polygon,Udenu,NG014015,Udenu,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,0.734314,0.02102
+716,Polygon,Udi,NG014016,Udi,<Null>,<Null>,Enugu West,NG01403,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,1.570962,0.072828
+717,Polygon,Udu,NG010018,Udu,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.625831,0.013531
+718,Polygon,Udung Uko,NG003027,Udung Uko,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.340003,0.004783
+719,Polygon,Ughelli North,NG010019,Ughelli North,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,2.00207,0.067814
+720,Polygon,Ughelli South,NG010020,Ughelli South,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,2.201502,0.062819
+721,Polygon,Ugwunagbo,NG001012,Ugwunagbo,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.49429,0.010274
+722,Polygon,Uhunmwonde,NG012018,Uhunmwonde,<Null>,<Null>,Edo South,NG01201,Edo,NG012,Nigeria,NG,11/29/16,4/17/19,<Null>,1.713137,0.162791
+723,Polygon,Ukanafun,NG003028,Ukanafun,<Null>,<Null>,Akwa Ibom North West,NG00302,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.568351,0.017797
+724,Polygon,Ukum,NG007021,Ukum,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.626045,0.146167
+725,Polygon,Ukwa East,NG001013,Ukwa East,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.855624,0.023063
+726,Polygon,Ukwa West,NG001014,Ukwa West,<Null>,<Null>,Abia South,NG00103,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.779764,0.022614
+727,Polygon,Ukwuani,NG010021,Ukwuani,<Null>,<Null>,Delta North,NG01002,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.800696,0.033374
+728,Polygon,Umu-Nneochi,NG001017,Umu-Nneochi,<Null>,<Null>,Abia North,NG00102,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.815121,0.030062
+729,Polygon,Umuahia North,NG001015,Umuahia North,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.790264,0.018568
+730,Polygon,Umuahia South,NG001016,Umuahia South,<Null>,<Null>,Abia Central,NG00101,Abia,NG001,Nigeria,NG,11/29/16,4/17/19,<Null>,0.491301,0.011038
+731,Polygon,Ungogo,NG020042,Ungogo,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.891455,0.018502
+732,Polygon,Unuimo,NG017027,Unuimo,<Null>,<Null>,Imo North,NG01702,Imo,NG017,Nigeria,NG,11/29/16,4/17/19,<Null>,0.41632,0.00879
+733,Polygon,Uruan,NG003029,Uruan,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.859558,0.028271
+734,Polygon,Urue-Offong/Oruko,NG003030,Urue-Offong/Oruko,<Null>,<Null>,Akwa Ibom South,NG00303,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.519026,0.009438
+735,Polygon,Ushongo,NG007022,Ushongo,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.866977,0.112947
+736,Polygon,Ussa,NG035013,Ussa,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,1.742312,0.122364
+737,Polygon,Uvwie,NG010022,Uvwie,<Null>,<Null>,Delta Central,NG01001,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,0.498604,0.009177
+738,Polygon,Uyo,NG003031,Uyo,<Null>,<Null>,Akwa Ibom North East,NG00301,Akwa Ibom,NG003,Nigeria,NG,11/29/16,4/17/19,<Null>,0.968981,0.014974
+739,Polygon,Uzo-Uwani,NG014017,Uzo-Uwani,<Null>,<Null>,Enugu North,NG01401,Enugu,NG014,Nigeria,NG,11/29/16,4/17/19,<Null>,1.632159,0.068847
+740,Polygon,Vandeikya,NG007023,Vandeikya,<Null>,<Null>,Benue North East,NG00701,Benue,NG007,Nigeria,NG,11/29/16,4/17/19,<Null>,1.341556,0.079998
+741,Polygon,Wamako,NG034021,Wamako,<Null>,<Null>,Sokoto North,NG03402,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.253124,0.055288
+742,Polygon,Wamba,NG026013,Wamba,<Null>,<Null>,Nassarawa North,NG02602,Nasarawa,NG026,Nigeria,NG,11/29/16,4/17/19,<Null>,1.462369,0.099527
+743,Polygon,Warawa,NG020043,Warawa,<Null>,<Null>,Kano Central,NG02002,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,0.800314,0.03019
+744,Polygon,Warji,NG005019,Warji,<Null>,<Null>,Bauchi Central,NG00501,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,0.920373,0.054527
+745,Polygon,Warri North,NG010023,Warri North,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,2.387004,0.149911
+746,Polygon,Warri South,NG010024,Warri South,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,1.40412,0.047809
+747,Polygon,Warri South West,NG010025,Warri South West,<Null>,<Null>,Delta South,NG01003,Delta,NG010,Nigeria,NG,11/29/16,4/17/19,<Null>,2.148856,0.13834
+748,Polygon,Wasagu/Danko,NG022019,Wasagu/Danko,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,3.677942,0.339235
+749,Polygon,Wase,NG032017,Wase,<Null>,<Null>,Plateau South,NG03203,Plateau,NG032,Nigeria,NG,11/29/16,4/17/19,<Null>,2.922315,0.409523
+750,Polygon,Wudil,NG020044,Wudil,<Null>,<Null>,Kano South,NG02001,Kano,NG020,Nigeria,NG,11/29/16,4/17/19,<Null>,1.068505,0.030022
+751,Polygon,Wukari,NG035014,Wukari,<Null>,<Null>,Taraba South,NG03503,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,3.086212,0.322825
+752,Polygon,Wurno,NG034022,Wurno,<Null>,<Null>,Sokoto East,NG03401,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.363085,0.056745
+753,Polygon,Wushishi,NG027025,Wushishi,<Null>,<Null>,Niger North,NG02702,Niger,NG027,Nigeria,NG,11/29/16,4/17/19,<Null>,2.311801,0.149188
+754,Polygon,Yabo,NG034023,Yabo,<Null>,<Null>,Sokoto South,NG03403,Sokoto,NG034,Nigeria,NG,11/29/16,4/17/19,<Null>,1.0854,0.06397
+755,Polygon,Yagba East,NG023020,Yagba East,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,2.097325,0.12084
+756,Polygon,Yagba West,NG023021,Yagba West,<Null>,<Null>,Kogi West,NG02303,Kogi,NG023,Nigeria,NG,11/29/16,4/17/19,<Null>,1.594076,0.105485
+757,Polygon,Yakurr,NG009018,Yakurr,<Null>,<Null>,Cross River Central,NG00901,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,0.9738,0.053811
+758,Polygon,Yala,NG009019,Yala,<Null>,<Null>,Cross River North,NG00902,Cross River,NG009,Nigeria,NG,11/29/16,4/17/19,<Null>,2.3732,0.145879
+759,Polygon,Yamaltu/Deba,NG016011,Yamaltu/Deba,<Null>,<Null>,Gombe Central,NG01601,Gombe,NG016,Nigeria,NG,11/29/16,4/17/19,<Null>,2.333557,0.161821
+760,Polygon,Yankwashi,NG018027,Yankwashi,<Null>,<Null>,Jigawa North-West,NG01802,Jigawa,NG018,Nigeria,NG,11/29/16,4/17/19,<Null>,0.919931,0.028142
+761,Polygon,Yauri,NG022020,Yauri,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,0.704087,0.010151
+762,Polygon,Yenegoa,NG006008,Yenegoa,<Null>,<Null>,Bayelsa Central,NG00601,Bayelsa,NG006,Nigeria,NG,11/29/16,4/17/19,<Null>,1.380047,0.055637
+763,Polygon,Yola North,NG002020,Yola North,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,0.274343,0.005228
+764,Polygon,Yola South,NG002021,Yola South,<Null>,<Null>,Adamawa Central,NG00201,Adamawa,NG002,Nigeria,NG,11/29/16,4/17/19,<Null>,1.657038,0.076612
+765,Polygon,Yorro,NG035015,Yorro,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,1.828075,0.104613
+766,Polygon,Yunusari,NG036016,Yunusari,<Null>,<Null>,Yobe East,NG03601,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,3.111997,0.318022
+767,Polygon,Yusufari,NG036017,Yusufari,<Null>,<Null>,Yobe North,NG03602,Yobe,NG036,Nigeria,NG,11/29/16,4/17/19,<Null>,3.341554,0.32223
+768,Polygon,Zaki,NG005020,Zaki,<Null>,<Null>,Bauchi North,NG00502,Bauchi,NG005,Nigeria,NG,11/29/16,4/17/19,<Null>,2.55832,0.158104
+769,Polygon,Zango,NG021034,Zango,<Null>,<Null>,Katsina North,NG02102,Katsina,NG021,Nigeria,NG,11/29/16,4/17/19,<Null>,1.003302,0.043272
+770,Polygon,Zango-Kataf,NG019022,Zango-Kataf,<Null>,<Null>,Kaduna South,NG01903,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.973339,0.1923
+771,Polygon,Zaria,NG019023,Zaria,<Null>,<Null>,Kaduna North,NG01902,Kaduna,NG019,Nigeria,NG,11/29/16,4/17/19,<Null>,1.064112,0.032586
+772,Polygon,Zing,NG035016,Zing,<Null>,<Null>,Taraba North,NG03502,Taraba,NG035,Nigeria,NG,11/29/16,4/17/19,<Null>,1.186195,0.084464
+773,Polygon,Zurmi,NG037014,Zurmi,<Null>,<Null>,Zamfara North,NG03702,Zamfara,NG037,Nigeria,NG,11/29/16,4/17/19,<Null>,2.611934,0.223538
+774,Polygon,Zuru,NG022021,Zuru,<Null>,<Null>,Kebbi South,NG02203,Kebbi,NG022,Nigeria,NG,11/29/16,4/17/19,<Null>,1.580459,0.057776

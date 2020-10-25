@@ -9,7 +9,7 @@
 # So, basically, out of the ones that say they are international, how many are actually offering the exam itself.
 
 #Bring in data from csv
-final_scraped_dataset <- read_csv("final_scraped_dataset_w.csv")
+final_scraped_dataset <- read_csv("./data/final_scraped_dataset_w.csv")
 
 # Now clean location data
 final_scraped_dataset_w_clean <- final_scraped_dataset %>%
@@ -30,19 +30,20 @@ final_scraped_dataset_w_counts <- final_scraped_dataset_w_clean %>%
   distinct(school_name, area, loc, .keep_all = TRUE) %>%
   mutate(
     intl_name = str_detect( `school_name` , "INTERNATIONAL|British|American|Canadian|French"),
-    intl_mission = str_detect( `  Our Mission Statement` , "INTERNATIONAL|British|American|Canadian|French|Global"),
-    intl_subject = str_detect( `  Subject Offered` , "INTERNATIONAL|British|American|Canadian|Global"),
-    us_edu = str_detect( `  Examinations Taken` , "TOEFL|T.O.E.F.L|SAT|S.A.T"),
-    uk_edu = str_detect( `  Examinations Taken` , "IELTS|I.E.L.T.S|IGCSE| I.G.C.S.E|A Level|Checkpoint|Cambridge"),
-    year_founded = str_extract(`  School History`, "\\d+"),
+    intl_mission = str_detect( `Our Mission Statement` , "INTERNATIONAL|British|American|Canadian|French|Global"),
+    intl_subject = str_detect( `Subject Offered` , "INTERNATIONAL|British|American|Canadian|Global"),
+    us_edu = str_detect( `Examinations Taken` , "TOEFL|T.O.E.F.L|SAT|S.A.T"),
+    uk_edu = str_detect( `Examinations Taken` , "IELTS|I.E.L.T.S|IGCSE| I.G.C.S.E|A Level|Checkpoint|Cambridge"),
+    year_founded = str_extract(`School History`, "\\d+"),
     intl_name_mission = ifelse(intl_name == "TRUE" | intl_mission == "TRUE", "TRUE", "FALSE"),
     us_uk_exams = ifelse(us_edu == "TRUE" | uk_edu == "TRUE", "TRUE", "FALSE"),
     intl_name_mission_and_exams = ifelse(us_uk_exams == "TRUE" & intl_name_mission == "TRUE", "TRUE", "FALSE")) %>%
   gather(var, vals, us_uk_exams, intl_name, intl_mission, intl_name_mission, intl_subject, intl_name_mission_and_exams) %>%
   group_by(type, loc, var) %>% # 
-  summarise(loc_counts = sum(ifelse(vals == "TRUE", 1, 0), na.rm = T)) %>%
+  summarise(.groups = "keep",
+    loc_counts = sum(ifelse(vals == "TRUE", 1, 0), na.rm = T)) %>%
   unite(type_var, type, var) %>%
   spread(type_var, loc_counts)
 
 #save as csv
-write_csv(final_scraped_dataset_w_counts, path = "~/final_scraped_dataset_w_counts.csv")
+write_csv(final_scraped_dataset_w_counts, path = "./data/final_scraped_dataset_w_counts.csv")
