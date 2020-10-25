@@ -116,6 +116,6 @@ final_scraped_dataset_w <- get_all_schools_v2_final %>%
   separate(name, c("school_name", "area"), sep = ",")
 
 #Save R file
-save(final_scraped_dataset_w,file="~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.Rda")
+save(final_scraped_dataset_w,file="./data/final_scraped_dataset_w.Rda")
 
-write_csv(final_scraped_dataset_w, path = "~/Google Drive/Nigeria_school_scraping/final_scraped_dataset_w.csv")
+write_csv(final_scraped_dataset_w, path = "./data/final_scraped_dataset_w.csv")
