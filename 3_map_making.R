@@ -58,11 +58,15 @@ ggmap(lagos) +
 #working base map!
 
 #join shaofiles with count data
-shp2_counts <- left_join(shp2, final_scraped_dataset_w_counts, by = c("ADM2_REF" = "loc"))
+shp2_counts <- left_join(shp2, 
+                         final_scraped_dataset_w_counts, 
+                         by = c("ADM2_REF" = "loc"))
 
-sf_cent_counts <- left_join(sf_cent, final_scraped_dataset_w_counts, by = c("ADM2_REF" = "loc")) 
+sf_cent_counts <- left_join(sf_cent, 
+                            final_scraped_dataset_w_counts, 
+                            by = c("ADM2_REF" = "loc")) 
 
-#coloured area
+#coloured area for schools that have International in Mission statement or school name
 ggmap(lagos) +
   geom_sf(data = shp2_counts, aes(fill = Private_intl_name_mission), 
           inherit.aes = FALSE, alpha = 0.6) +
@@ -74,7 +78,7 @@ ggmap(lagos) +
 
 ggsave("school_name_mission.png", height = 5, width = 8, units = 'in', dpi = 600, path = "./plots/")
 
-#coloured area
+#coloured area for schools offering foreing tests
 ggmap(lagos) +
   geom_sf(data = shp2_counts, aes(fill = Private_us_uk_exams), 
           inherit.aes = FALSE, alpha = 0.6) +
@@ -86,12 +90,10 @@ ggmap(lagos) +
 
 ggsave("school_foreing tests.png", height = 5, width = 8, units = 'in', dpi = 600, path = "./plots/")
 
-
 #coloured area
 ggmap(lagos) +
   geom_sf(data =  sf_cent_counts, aes(size = toefl), 
           fill = "blue",  alpha = 0.3, show.legend = "point", inherit.aes = FALSE)
-
 
 ##working base map of schools
 ggmap(lagos) +
